@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native builds (Continuous Native Generation)
+ios/
+android/
+
+# Environment variables
+.env*.local
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+*.pem
+
+# Testing
+coverage/
